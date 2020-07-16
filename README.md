@@ -1,3 +1,20 @@
+# Todo List React app
+Simple todo list app made with ReactJs
+
+#### Deployed on Heroku 
+please visit https://react-todo-sherbieny.herokuapp.com/
+
+#### Tools used
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+- VS code
+- [Dillinger](https://dillinger.io/)
+- 
+
+#### Features
+- Add item to list
+- check/uncheck list item
+- delete item from list
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
