@@ -8,7 +8,6 @@ please visit https://react-todo-sherbieny.herokuapp.com/
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 - VS code
 - [Dillinger](https://dillinger.io/)
-- 
 
 #### Features
 - Add item to list
